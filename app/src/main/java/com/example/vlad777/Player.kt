@@ -1,7 +1,6 @@
 package com.example.vlad777
 
 class Player(
-
 ){
     companion object {
         var money = 500

@@ -9,6 +9,6 @@ import androidx.compose.ui.Modifier
 @Composable
 fun Slot() {
     Column(Modifier.fillMaxSize()) {
-        Text("aboba")
+        Text("no idea")
     }
 }
