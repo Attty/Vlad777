@@ -1,0 +1,45 @@
+package com.example.vlad777.screens.ruletka
+
+object Utils {
+    val list = listOf(
+        "Green",
+        "Red",
+        "Black",
+        "Red",
+        "Black",
+        "Red",
+        "Black",
+        "Red",
+        "Black",
+        "Red",
+        "Black",
+        "Red",
+        "Black",
+        "Red",
+        "Black",
+        "Red",
+        "Black",
+        "Red",
+        "Black",
+        "Red",
+        "Black",
+        "Red",
+        "Black",
+        "Red",
+        "Black",
+        "Red",
+        "Black",
+        "Red",
+        "Black",
+        "Red",
+        "Black",
+        "Red",
+        "Black",
+        "Red",
+        "Black",
+        "Red",
+        "Black",
+        ""
+    )
+    var gameHistory = mutableListOf("")
+}
